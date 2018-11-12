@@ -1,6 +1,7 @@
 # Home Challenge
 Thank you for giving me the opportunity to attend the Home Challenge of N26. I have worked for task 1 and task 3. Details information about both tasks are given below.
 
+Assignment github URL : https://github.com/ArifMahmud/arif-mahmud.git
 # Task 1:
 ##### List of ideas for testing moneyfy Application:
 - Functional Test

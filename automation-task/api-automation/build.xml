@@ -1,4 +1,4 @@
-<project name="SpockExample" basedir="." default="test" xmlns:artifact="urn:maven-artifact-ant">
+<project name="ApiAutomation" basedir="." default="test" xmlns:artifact="urn:maven-artifact-ant">
   <property name="src.dir" location="src/test/groovy" />
   <property name="resource.dir" location="src/test/resources" />
   <property name="build.dir" location="ant/build" />

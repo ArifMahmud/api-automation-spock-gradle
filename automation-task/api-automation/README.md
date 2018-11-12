@@ -21,3 +21,9 @@ Type:
     
 Downloaded files will be stored in the local Maven repository (typically *user_home*`/.m2/repository`).
 
+How to run test and check the test report
+-----------------------------------------
+1. After cloning the project, go to the directory "automation-task\api-automation"
+2. Build the automation project with gradle.
+3. After step 2, a report will be generated (A html file named 'index.html').
+4. Check the report in "api-automation\build\reports\tests\test"
